@@ -1,0 +1,21 @@
+# --- Quantum NLP Core ---
+lambeq>=0.4.1
+discopy>=1.1.5
+
+# --- Quantum Frameworks ---
+pennylane>=0.44.0
+pennylane-qiskit>=0.44.1
+qiskit>=1.0.0
+qiskit-aer>=0.14.0
+
+# --- Classical ML & Data ---
+torch>=2.2.0
+numpy>=1.26.0
+pandas>=2.1.0
+scikit-learn>=1.4.0
+
+# --- Utilities & Visualization ---
+matplotlib>=3.8.0
+networkx>=3.2.0
+tqdm>=4.66.0
+ipykernel  # Required for running in Jupyter Notebooks
